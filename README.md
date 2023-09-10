@@ -1,5 +1,5 @@
 # 💫 About Me:
-➡ Currently, Im working on Steyp Private Limited.<br>➡ I’m currently learning Node Js<br>➡ How to reach me: mosalman1098@gmail.com
+<br>➡ I’m currently learning Node Js<br>➡ How to reach me: mosalman1098@gmail.com
 
 
 ## 🌐 Socials:
