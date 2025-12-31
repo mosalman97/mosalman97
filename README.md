@@ -5,38 +5,6 @@ Hi! I’m **Mohamad Salman**, a Full Stack and React Native Developer with exten
 
 ---
 
-## 🚀 Projects
-
-### **Tanara – OTT Platform for Algeria**  
-Tanara is Algeria’s ultimate OTT platform with interactive features, allowing users to engage while watching live and on-demand content. The app features a custom video player built with React Native Video Player for a smooth and responsive viewing experience. Clean code practices were enforced using Husky & ESLint to maintain high code quality.  
-
-**Role:** React Native Developer  
-**Tech Used:** React Native, TypeScript, Tailwind CSS, Zustand, React Hook Form, Husky, Firebase, Social Media Auth  
-
----
-
-### **Guess the Six**  
-Guess the Six is a fun and exciting game where users try to crack a secret six-digit code within a limited time and number of tries. The app features six slots to fill in the code, a numeric keypad, and real-time updates, with a scoreboard to track progress. The game connects with Unreal Engine for live studio gameplay, providing an immersive and interactive experience.  
-
-**Role:** React Native Developer  
-**Tech Used:** React Native, Tailwind CSS, TypeScript, Firebase Auth, Zustand, React.js  
-
----
-
-### **1-8C Quiz App**  
-1-8C Quiz is a fun and engaging history quiz app that helps users test their knowledge of world history. Designed for students and history enthusiasts, it provides quick and interactive quizzes, real-time scoring, and leaderboards to make learning both challenging and enjoyable.  
-
-**Responsibilities:**  
-- Developed the UI and implemented state management using Zustand  
-- Integrated backend services for quiz data, user management, and timer logic  
-- Implemented real-time scoring and leaderboards  
-- Set up analytics in the web admin dashboard to track user engagement and performance  
-
-**Role:** Full Stack Developer  
-**Tech Used:** React Native Expo, React.js, Tailwind CSS, Zustand, React Hook Form  
-
----
-
 ## 💼 Experience
 
 **React Native Developer – Louna Art VR Development LLC**  
